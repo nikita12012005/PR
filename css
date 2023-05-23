@@ -1,0 +1,1379 @@
+/* test task */
+
+position: relative;
+width: 1512px;
+height: 982px;
+
+/* White */
+background: #FFFFFF;
+
+
+/* card */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 356px;
+height: 428px;
+left: 578px;
+top: 229px;
+
+/* White */
+background: #FFFFFF;
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+border-radius: 8px;
+
+
+/* btn_primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 7px 16px 9px;
+gap: 8px;
+
+position: absolute;
+width: 162px;
+height: 40px;
+left: 16px;
+top: 372px;
+
+/* Orange */
+background: #ED7135;
+border-radius: 8px;
+
+
+/* Save to collection */
+
+width: 130px;
+height: 24px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* btn_secondary */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 7px 16px 9px;
+gap: 8px;
+
+position: absolute;
+width: 75px;
+height: 40px;
+left: 194px;
+top: 372px;
+
+/* White */
+background: #FFFFFF;
+/* Border and Dividers */
+border: 2px solid #EBEBEB;
+border-radius: 8px;
+
+
+/* Share */
+
+width: 43px;
+height: 24px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #292929;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* card_divider */
+
+position: absolute;
+width: 356px;
+height: 0px;
+left: 0px;
+top: 356px;
+
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+
+
+/* subheading */
+
+position: absolute;
+width: 308px;
+height: 48px;
+left: 24px;
+top: 256px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* heading */
+
+position: absolute;
+width: 92px;
+height: 36px;
+left: 24px;
+top: 216px;
+
+/* H2 */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* thumbnail */
+
+position: absolute;
+width: 356px;
+height: 200px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg);
+
+
+/* card */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 356px;
+height: 428px;
+left: 958px;
+top: 681px;
+
+/* White */
+background: #FFFFFF;
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+border-radius: 8px;
+
+
+/* btn_primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 7px 16px 9px;
+gap: 8px;
+
+position: absolute;
+width: 162px;
+height: 40px;
+left: 16px;
+top: 372px;
+
+/* Orange */
+background: #ED7135;
+border-radius: 8px;
+
+
+/* Save to collection */
+
+width: 130px;
+height: 24px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* btn_secondary */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 7px 16px 9px;
+gap: 8px;
+
+position: absolute;
+width: 75px;
+height: 40px;
+left: 194px;
+top: 372px;
+
+/* White */
+background: #FFFFFF;
+/* Border and Dividers */
+border: 2px solid #EBEBEB;
+border-radius: 8px;
+
+
+/* Share */
+
+width: 43px;
+height: 24px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #292929;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* card_divider */
+
+position: absolute;
+width: 356px;
+height: 0px;
+left: 0px;
+top: 356px;
+
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+
+
+/* subheading */
+
+position: absolute;
+width: 308px;
+height: 48px;
+left: 24px;
+top: 256px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* heading */
+
+position: absolute;
+width: 92px;
+height: 36px;
+left: 24px;
+top: 216px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* thumbnail */
+
+position: absolute;
+width: 356px;
+height: 200px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg);
+
+
+/* card */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 356px;
+height: 428px;
+left: 958px;
+top: 229px;
+
+/* White */
+background: #FFFFFF;
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+border-radius: 8px;
+
+
+/* btn_primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 7px 16px 9px;
+gap: 8px;
+
+position: absolute;
+width: 162px;
+height: 40px;
+left: 16px;
+top: 372px;
+
+/* Orange */
+background: #ED7135;
+border-radius: 8px;
+
+
+/* Save to collection */
+
+width: 130px;
+height: 24px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* btn_secondary */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 7px 16px 9px;
+gap: 8px;
+
+position: absolute;
+width: 75px;
+height: 40px;
+left: 194px;
+top: 372px;
+
+/* White */
+background: #FFFFFF;
+/* Border and Dividers */
+border: 2px solid #EBEBEB;
+border-radius: 8px;
+
+
+/* Share */
+
+width: 43px;
+height: 24px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #292929;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* card_divider */
+
+position: absolute;
+width: 356px;
+height: 0px;
+left: 0px;
+top: 356px;
+
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+
+
+/* subheading */
+
+position: absolute;
+width: 308px;
+height: 48px;
+left: 24px;
+top: 256px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* subheading */
+
+position: absolute;
+width: 94px;
+height: 24px;
+left: 24px;
+top: 312px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* heading */
+
+position: absolute;
+width: 92px;
+height: 36px;
+left: 24px;
+top: 216px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* thumbnail */
+
+position: absolute;
+width: 356px;
+height: 200px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg);
+
+
+/* card */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 356px;
+height: 428px;
+left: 578px;
+top: 681px;
+
+/* White */
+background: #FFFFFF;
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+border-radius: 8px;
+
+
+/* btn_primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 7px 16px 9px;
+gap: 8px;
+
+position: absolute;
+width: 162px;
+height: 40px;
+left: 16px;
+top: 372px;
+
+/* Orange */
+background: #ED7135;
+border-radius: 8px;
+
+
+/* Save to collection */
+
+width: 130px;
+height: 24px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* btn_secondary */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 7px 16px 9px;
+gap: 8px;
+
+position: absolute;
+width: 75px;
+height: 40px;
+left: 194px;
+top: 372px;
+
+/* White */
+background: #FFFFFF;
+/* Border and Dividers */
+border: 2px solid #EBEBEB;
+border-radius: 8px;
+
+
+/* Share */
+
+width: 43px;
+height: 24px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #292929;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* card_divider */
+
+position: absolute;
+width: 356px;
+height: 0px;
+left: 0px;
+top: 356px;
+
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+
+
+/* subheading */
+
+position: absolute;
+width: 308px;
+height: 48px;
+left: 24px;
+top: 256px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* subheading */
+
+position: absolute;
+width: 94px;
+height: 24px;
+left: 24px;
+top: 312px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* heading */
+
+position: absolute;
+width: 92px;
+height: 36px;
+left: 24px;
+top: 216px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* thumbnail */
+
+position: absolute;
+width: 356px;
+height: 200px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg);
+
+
+/* btn_grouped */
+
+position: absolute;
+width: 176px;
+height: 40px;
+left: 1138px;
+top: 128px;
+
+
+
+/* unactive_bg */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 88px;
+height: 40px;
+left: 1226px;
+top: 128px;
+
+/* Border and Dividers */
+border-width: 2px 2px 2px 0px;
+border-style: solid;
+border-color: #EBEBEB;
+border-radius: 0px 8px 8px 0px;
+
+
+/* Latest */
+
+position: absolute;
+width: 47px;
+height: 24px;
+left: 1246px;
+top: 135px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* active_bg */
+
+position: absolute;
+width: 88px;
+height: 40px;
+left: 1138px;
+top: 128px;
+
+/* Dark */
+background: #292929;
+border-radius: 8px 0px 0px 8px;
+
+
+/* Newest */
+
+position: absolute;
+width: 56px;
+height: 24px;
+left: 1154px;
+top: 135px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* counter */
+
+position: absolute;
+width: 63px;
+height: 21px;
+left: 578px;
+top: 176px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* h1 */
+
+position: absolute;
+width: 188px;
+height: 60px;
+left: 578px;
+top: 112px;
+
+/* H1 */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* filter_item */
+
+position: absolute;
+width: 273px;
+height: 40px;
+left: 186px;
+top: 248px;
+
+
+
+/* filter_bg */
+
+position: absolute;
+width: 273px;
+height: 40px;
+left: 186px;
+top: 248px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* Deleted */
+
+position: absolute;
+width: 58px;
+height: 24px;
+left: 230px;
+top: 255px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* delete, remove, garbage, waste, trash can   */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 198px;
+top: 255px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Secondary */
+border: 2px solid #666666;
+
+
+/* filter_item */
+
+position: absolute;
+width: 273px;
+height: 40px;
+left: 186px;
+top: 208px;
+
+
+
+/* filter_bg */
+
+position: absolute;
+width: 273px;
+height: 40px;
+left: 186px;
+top: 208px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* clock circle, time */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 198px;
+top: 215px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Secondary */
+border: 2px solid #666666;
+
+
+/* Recent */
+
+position: absolute;
+width: 52px;
+height: 24px;
+left: 230px;
+top: 215px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* filter_item */
+
+position: absolute;
+width: 273px;
+height: 40px;
+left: 186px;
+top: 168px;
+
+
+
+/* filter_bg */
+
+position: absolute;
+width: 273px;
+height: 40px;
+left: 186px;
+top: 168px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* Selfies */
+
+position: absolute;
+width: 50px;
+height: 24px;
+left: 230px;
+top: 175px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* smiley, face, emoji, smile */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 198px;
+top: 175px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Secondary */
+border: 2px solid #666666;
+
+
+/* Icon */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 31.25%;
+bottom: 56.25%;
+
+/* Secondary */
+background: #666666;
+
+
+/* filter_item_active */
+
+position: absolute;
+width: 273px;
+height: 40px;
+left: 186px;
+top: 128px;
+
+
+
+/* filter_bg */
+
+position: absolute;
+width: 273px;
+height: 40px;
+left: 186px;
+top: 128px;
+
+/* Orange */
+background: #ED7135;
+border-radius: 8px;
+
+
+/* All photos */
+
+position: absolute;
+width: 76px;
+height: 24px;
+left: 230px;
+top: 135px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* White */
+color: #FFFFFF;
+
+
+
+/* images 1, photos, pictures, shot */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 198px;
+top: 135px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* header */
+
+position: absolute;
+width: 1512px;
+height: 72px;
+left: 0px;
+top: 0px;
+
+
+
+/* magic stick */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 198px;
+top: 23px;
+
+
+
+/* Icon */
+
+position: absolute;
+visibility: hidden;
+left: 8.69%;
+right: 4.17%;
+top: 0%;
+bottom: 8.69%;
+
+background: #000000;
+
+
+/* search */
+
+position: absolute;
+width: 546px;
+height: 40px;
+left: 578px;
+top: 16px;
+
+
+
+/* search_bg */
+
+position: absolute;
+width: 546px;
+height: 40px;
+left: 578px;
+top: 16px;
+
+/* Gray 1 */
+background: #EEEEEE;
+border-radius: 100px;
+
+
+/* search, magnifying glass */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 590px;
+top: 23px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* Secondary */
+border: 2px solid #666666;
+
+
+/* Search for anything... */
+
+position: absolute;
+width: 153px;
+height: 24px;
+left: 622px;
+top: 23px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* Photos */
+
+position: absolute;
+width: 53px;
+height: 24px;
+left: 198px;
+top: 23px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Dark */
+color: #292929;
+
+
+
+/* Videos */
+
+position: absolute;
+width: 50px;
+height: 24px;
+left: 275px;
+top: 23px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* Podcasts */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: 349px;
+top: 23px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Secondary */
+color: #666666;
+
+
+
+/* language */
+
+position: absolute;
+width: 76px;
+height: 24px;
+left: 1166px;
+top: 23px;
+
+
+
+/* English */
+
+position: absolute;
+width: 52px;
+height: 24px;
+left: 1166px;
+top: 23px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: right;
+
+/* Secondary */
+color: #666666;
+
+
+
+/* chevron-down-small */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1218px;
+top: 23px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 58.33%;
+bottom: 25%;
+
+/* Secondary */
+border: 2px solid #666666;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Sign in */
+
+position: absolute;
+width: 48px;
+height: 24px;
+left: 1266px;
+top: 23px;
+
+/* Basic */
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: right;
+
+/* Secondary */
+color: #666666;
+
+
+
+/* header_divider */
+
+position: absolute;
+width: 1512px;
+height: 0px;
+left: 0px;
+top: 72px;
+
+/* Border and Dividers */
+border: 1px solid #EBEBEB;
+
+
+/* header_active_link */
+
+position: absolute;
+width: 53px;
+height: 2px;
+left: 198px;
+top: 70px;
+
+/* Orange */
+background: #ED7135;
